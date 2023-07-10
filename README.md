@@ -11,7 +11,7 @@ Projeto realizado por Omar alviarez
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 > Este mini projeto faz parte do programa de estudos do projeto Instituto Nu - [Nubank e Descomplica]
-> O aluno precisa identificar, codificar as propriedades disponíveis do bootstrap e aplicar em um documento HTML para reproduzir um site site especificado.
+> O aluno precisa identificar, codificar os recursos disponíveis do ReactJS e aplicar para reproduzir o site especificado.
 
 ## 💻 Pré-requisitos
 
